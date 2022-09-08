@@ -26,7 +26,7 @@ To get this project up running locally, follow these simple steps:
 ### 2.1 Clone the repository:
 
 ```bash
-git clone https://github.com/JoE11-y/Near-Lottery.git
+git clone repository https://github.com/womackand/Near-lottery-101
 ```
 
 ### 2.2 Navigate to the directory:
