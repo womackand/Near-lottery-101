@@ -1,6 +1,6 @@
 # NEAR Lottery
 
-[link to dapp](https://JoE11-y.github.io/Near-Lottery)
+[link to dapp](https://near-lottery.netlify.app)
 
 A simple lottery contract that awards a lucky winner with a half of the generated prizepot.
 Lottery is currently set to run every 2 days as a default.
