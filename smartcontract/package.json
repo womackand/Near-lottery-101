@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Dacade Bounty Tutorial",
   "main": "index.js",
-  "repository": "https://github.com/JoE11-y/Near-Lottery",
+  "repository": "https://near-lottery.netlify.app",
   "author": "JoE11-y",
   "license": "MIT",
   "private": true,
